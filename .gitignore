@@ -1,0 +1,65 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Folders to Ignore #
+######################
+/001. Tutorial
+/002. Projects
+/AusGVT Supplied
+/DAPRS
+/DAVE DATA
+/OBS
+
+## states ##
+/NSW
+/VIC
+/QLD
+/TAS
+/WA
+/NT
+/SA
+/NZ
+
+# Dont Ignore this stuff #
+##########################
+!/NZ/NZ_ELECTRICITY_DATA.kmz
+
+
+# Files to Ignore #
+######################
+map.kml

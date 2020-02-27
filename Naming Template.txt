@@ -1,0 +1,115 @@
+colour codes
+
+			HTML 		XML
+500kV: 		#FFDC00 - ff00dcff	 - YELLOW		- stylemap_500kV
+330/350kV: 	#FF8C00 - ff008cff	 - ORANGE		- stylemap_330kV
+275kV: 		#FF00FF - ffff00ff	 - PURPLE		- stylemap_275kV
+220kV: 		#0000FF - ffff0000	 - BLUE			- stylemap_220kV
+132/110kV: 	#FF0000 - ff0000ff	 - RED			- stylemap_110kV
+66kV: 		#A0522D - ff2d52a0	 - BROWN		- stylemap_66kV
+33kV: 		#006400 - ff006400	 - GREEN		- stylemap_33kV
+22kV: 		#4E87B7 - ffb7874e	 - LIGHT BLUE	- 
+
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OWNER</th>
+<td>Essential Energy</td>
+</tr><tr bgcolor="">
+<th>PURPOSE</th>
+<td>Overhead</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>STATUS</th>
+<td>In Service</td>
+</tr><tr bgcolor="">
+
+<th>OPVOLT</th>
+<td>66kV</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LINE RATING</th>
+
+<td>9/15MVA</td>
+
+</tr><tr bgcolor="">
+<th>LV_SERVICE</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TR_FEEDER</th>
+
+<td>865-Cowra 132 - Cowra Town</td>
+
+</tr><tr bgcolor="">
+<th>HV_FEEDER</th>
+<td></td>
+</tr></table></center>
+
+Substation
+
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OWNER</th>
+<td>Essential Energy</td>
+</tr><tr bgcolor="">
+<th>PURPOSE</th>
+<td>ZSS</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>STATUS</th>
+<td>In Service</td>
+</tr><tr bgcolor="">
+<th>OPVOLT</th>
+<td>66/11kV</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FC/TRANS RATING</th>
+<td>0.7/6.25MVA</td>
+</tr></table></center>
+
+Multiple Subs in 1
+<th>OPVOLT</th>
+<td>66/33/11kV</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>FC/TRANS RATING</th>
+<th></th>
+</tr><tr bgcolor="#E3E3F3">
+<td>Adaminaby 11kV</td>
+<td>0.7/15MVA</td>
+</tr><tr bgcolor="#E3E3F3">
+<td>Adaminaby 33kV</td>
+<td>1.1/5MVA</td>
+</tr></table></center>
+
+Generators
+
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OWNER</th>
+<td>MERIDIAN</td>
+</tr><tr bgcolor="">
+<th>NO. OF TURBINES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>STATUS</th>
+<td>In Service</td>
+</tr><tr bgcolor="">
+<th>OPGEN</th>
+<td>28MW</td>
+</tr></table></center>
+
+Folder
+
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Folder Location</th>
+<td>W:\E&C\Engineering\Electrical\Drawing Network Load Maps\VIC</td>
+</tr><tr bgcolor="">
+<th>DISTRIBUTORS</th>
+<th>MAPS</th>
+</tr><tr bgcolor="#E3E3F3">
+<td>Citipower</td>
+<td></td>
+</tr><tr bgcolor="">
+<td>Jemena</td>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<td>Powercor Australia</td>
+<td>https://www.powercor.com.au/customers/electricity-connections/solar-and-other-generation/connecting-larger-embedded-generation-systems/</td>
+</tr><tr bgcolor="">
+<td>AusNet Services</td>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<td>United Energy Distribution</td>
+<td></td>
