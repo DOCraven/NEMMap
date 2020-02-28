@@ -58,6 +58,14 @@ Thumbs.db
 # Dont Ignore this stuff #
 ##########################
 !/NZ/NZ_ELECTRICITY_DATA.kmz
+#!/NSW/
+#!/VIC/
+#!/QLD/
+#!/TAS/
+#!/WA/
+#!/NT/
+#!/SA/
+#!/NZ/
 
 
 # Files to Ignore #
