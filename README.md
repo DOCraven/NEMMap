@@ -6,7 +6,7 @@
 <img align="left" width="50" height="50" src="./docs/icons/open-book.svg">
 
 ## Context
-A visual map to assist with interpreting the NEM, SWIS and NT grids. 
+A visual map to assist with interpreting the NEM (QLD, NSW, VIC, TAS, SA), SWIS (WA) and NT grids. 
 
 
 <img align="left" width="50" height="50" src="./docs/icons/flag.svg">
@@ -19,10 +19,6 @@ Contains:
 - Zone Substations 
 - Terminal Substations
 - Generators
-
-for the NEM (ie, QLD, NSW, VIC, TAS, SA), SWIS (WA) and NT grids. 
-=======
-
 
 <img align="left" width="50" height="50" src="./docs/icons/tools.svg">
 
