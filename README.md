@@ -1,13 +1,13 @@
 
 # Mapping the National Electricity Market (NEM) infrastructure
-=======
+
 
 
 <img align="left" width="50" height="50" src="./docs/icons/open-book.svg">
 
 ## Context
 A visual map to assist with interpreting the NEM, SWIS and NT grids. 
-=======
+
 
 <img align="left" width="50" height="50" src="./docs/icons/flag.svg">
 
@@ -31,7 +31,7 @@ for the NEM (ie, QLD, NSW, VIC, TAS, SA), SWIS (WA) and NT grids.
 1. Install Google Earth Pro 
 1. Open `AU Network Map.kmz`
 1. State level `KMZ` are embedded with `AU Network Mark.kmz`
-=======
+
 
 
 <img align="left" width="50" height="50" src="./docs/icons/network.svg">
@@ -66,7 +66,7 @@ Some overlap of data exists
 Energex data is a single map of data
 
 
-=======
+
 <img align="left" width="50" height="50" src="./docs/icons/notes.svg">
 
 ## Data Sources
@@ -103,7 +103,7 @@ ALL data is from Data.gov.au, or scraped from the respective TNSP/DNSP TAPR/DAPR
 - TasNetworks (Distribution)
 - EvoEnergy (ACT TSNP)
 
-=======
+
 
 
 
