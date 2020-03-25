@@ -32,33 +32,14 @@ Contains:
 
 <img align="left" width="50" height="50" src="./docs/icons/network.svg">
 
-## How to Contribute
-
-
-### How to install
-
-- Step 1: `pip install`
-- Step 2: `alt-f4`
-
-
-
-### How to build
-
-`python --build --all .`
-
-### How to test
-
-Run the command
-`pytest --megahardcore`
-
-<img align="left" width="50" height="50" src="./docs/icons/traffic-light.svg">
 
 ## Known Issues
 
 Awaiting on Powercor to release their sub transmission lines via Rosetta/other GIS system. Expected release date late MAR early APR
 
 
-Some overlap of data exists
+Some overlap of data exists  
+
 Energex data is a single map of data
 
 
