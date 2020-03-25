@@ -35,12 +35,10 @@ Contains:
 
 ## Known Issues
 
-Awaiting on Powercor to release their sub transmission lines via Rosetta/other GIS system. Expected release date late MAR early APR
 
-
-Some overlap of data exists  
-
-Energex data is a single map of data
+- Awaiting on Powercor to release their sub transmission lines via Rosetta/other GIS system. Expected release date late MAR early APR
+- Some overlap of data exists  
+- Energex data is a single map of data
 
 
 
@@ -73,6 +71,7 @@ ALL data is from Data.gov.au, or scraped from the respective TNSP/DNSP TAPR/DAPR
 - Others
 
 ## INFERRED DATA ##
+. Data is sourced from seconday sources, not the respective TNSP/DNSP.
 
 - PowerLink
 - Electranet
