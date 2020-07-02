@@ -26,7 +26,7 @@ Contains:
 
 1. Install Google Earth Pro 
 1. Open `AU Network Map.kmz`
-1. State level `KMZ` are embedded with `AU Network Mark.kmz`
+1. State level `KMZ` are embedded with `AU Network Map.kmz`
 
 
 
@@ -39,6 +39,7 @@ Contains:
 - Awaiting on Powercor to release their sub transmission lines via Rosetta/other GIS system. Expected release date late MAR early APR
 - Some overlap of data exists  
 - Energex data is a single map of data
+- Powercor data is currently loaded as required from an external server. The data has not been verified, and it not to be relied upon. Additionally, the Powercor external data is not guaranteed to be around in the future. 
 
 
 
@@ -63,12 +64,14 @@ ALL data is from Data.gov.au, or scraped from the respective TNSP/DNSP TAPR/DAPR
 - https://data.gov.au/dataset/ds-ga-13be62a4-4fe3-f812-e053-12a3070a22be/details?q=transmission
 - https://data.gov.au/dataset/ds-ga-04661f51-82ee-144e-e054-00144fdd4fa6/details?q=power%20stations
 
-## MISSING DATA ##
+## MISSING/UNVERIFIED DATA ##
 
 - Jemena
 - United Energy
 - AUSGRID
-- Others
+- CityPower
+- WA PowerNetworks 
+- NT Grid
 
 ## INFERRED DATA ##
 . Data is sourced from seconday sources, not the respective TNSP/DNSP.
@@ -87,5 +90,5 @@ ALL data is from Data.gov.au, or scraped from the respective TNSP/DNSP TAPR/DAPR
 
 ## License
 
-Full public any one can use it.
+Full public anyone can use it.
 
