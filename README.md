@@ -26,7 +26,7 @@ Contains:
 
 1. Install Google Earth Pro 
 1. Open `AU Network Map.kmz`
-1. State level `KMZ` are embedded with `AU Network Mark.kmz`
+1. State level `KMZ` are embedded with `AU Network Map.kmz`
 
 
 
