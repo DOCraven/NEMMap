@@ -1,0 +1,39 @@
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OWNER</th>
+<td>Essential Energy</td>
+</tr><tr bgcolor="">
+<th>PURPOSE</th>
+<td>Overhead</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>STATUS</th>
+<td>In Service</td>
+</tr><tr bgcolor="">
+
+<th>OPVOLT</th>
+<td>132kV</td>
+
+</tr><tr bgcolor="#E3E3F3">
+
+<th>LINE RATING</th>
+<td>
+MVA
+</td>
+
+
+</tr><tr bgcolor="">
+<th>Feeder Origin</th>
+<td>
+
+</td>
+
+</tr><tr bgcolor="#E3E3F3">
+
+<th>Firm Destination</th>
+<td>	
+
+</td>
+
+
+</tr><tr bgcolor="">
+
+</tr></table></center>
