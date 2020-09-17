@@ -14,7 +14,7 @@
 
 </tr><tr bgcolor="#E3E3F3">
 
-<th>LINE RATING</th>
+<th>LINE RATING/FORECAST</th>
 <td>
 MVA
 </td>
